@@ -1,0 +1,42 @@
+.de{
+    background-color: #0ec2da;
+    height: 50px;
+    margin: -8px;
+}
+.buton2{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20%;
+    border-style: solid;
+    border: 0px;
+    width: 102px;
+    height: 29px;
+    margin-right: 13px;
+    margin-top: 9px;
+    float: right;
+}
+.yazi{
+    height: 45px;
+    width: 250px;
+    margin-top: 4px;
+    margin-left: -35px;
+}
+.cizgi{
+    margin-top: -15px;
+    margin: -8px;
+    float: left;
+    width: 1366px;
+    height: 3px;
+}
+.oyunadi{
+    width: 120px;
+    height: 23px;
+    float: left;
+    margin-top: -282px;
+    margin-left: 50px;
+}
+.alt{
+    margin-top: 100px;
+    margin: -8px;
+    background-color: rgba(143, 165, 165, 0.993);
+    height: 111px;   
+}

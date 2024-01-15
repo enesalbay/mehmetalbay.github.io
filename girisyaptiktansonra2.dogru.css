@@ -1,0 +1,55 @@
+.de{
+    background-color: #0ec2da;
+    height: 50px;
+    width: 100%;
+}
+.yazi{
+    height: 45px;
+    width: 250px;
+    margin-top: 4px;
+    margin-left: -35px;
+}
+.profil{
+    border-color: rgb(69, 112, 112);
+    border-style: solid;
+    margin-top: 3px;
+    margin-right: 15px;
+    float: right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.buton{
+    width: 102px;
+    height: 29px;
+    margin-right: 13px;
+    margin-top: 9px;
+    float: right;
+}
+.buton2{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20%;
+    border-style: solid;
+    border: 0px;
+    width: 102px;
+    height: 29px;
+    margin-right: 13px;
+    margin-top: 9px;
+    float: right;
+}
+.oyun{
+    width: 900px;
+    height: 300px;
+    margin-bottom: 50px;
+    margin: auto;
+}
+.siradaki{
+    margin: auto;
+    width: 88px;
+    height: 60px;
+}
+.alt{
+    margin-top: -10px;
+    background-color: rgba(193, 218, 218, 0.993);
+    height: 110px;   
+}

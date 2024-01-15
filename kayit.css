@@ -1,0 +1,104 @@
+.ustbolum{
+    background-color: #0ec2da;
+    height: 50px;
+}
+.yazi{
+    height: 45px;
+    width: 250px;
+    margin-top: 4px;
+    margin-left: -35px;
+}
+.buton3{
+    border: 0px;
+    border-style: solid;
+    border-radius: 15%;
+    background-color: rgb(238, 225, 225);
+    width: 102px;
+    height: 29px;
+    margin-right: 23px;
+    margin-top: 10px;
+    float: right 
+}
+.buton2{
+    border: 0px;
+    border-style: solid;
+    border-radius: 20%;
+    border: 0px;
+    background-color: rgb(238, 225, 225);
+    width: 102px;
+    height: 29px;
+    margin-right: 23px;
+    margin-top: 10px;
+    float: right;
+}
+.girisekrani{
+    margin-right: auto;
+    margin-left: auto;
+    background-color: rgb(108, 126, 126);
+    width: 400px;
+    height: 300px;
+}
+.ad{
+    margin-top: 15px;
+    margin-left: 10px;
+    float: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.txt{
+    background-color: rgb(212, 202, 202);
+    border-radius: 10%;
+    border-style: solid;
+    margin-top: -9px;
+    float: right;
+    margin-right: 83px;
+}
+
+.sifre{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    float: left;
+    margin-top: -16px;
+    margin-left: 80px;
+}
+.txt2{
+    background-color: rgb(212, 202, 202);;
+    border-radius: 10%;
+    border-style: solid;
+    float: left;
+    margin-top: -14px;
+    margin-left: 4px;
+}
+.sifretekrar{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    float: left;
+    margin-top: 5px;
+    margin-left: -107px;
+}
+.txt3{
+    background-color: rgb(212, 202, 202);;
+    border-radius: 10%;
+    border-style: solid;
+    float: left;
+    margin-top: 6px;
+    margin-left: 4px;
+}
+.txt4{
+    margin-left: 115px; 
+}
+.buton4{
+    border: 0px;
+    border-style: solid;
+    border-radius: 10%;
+    background-color: rgb(218, 204, 204);
+    float: right;
+    margin-right: 130px;
+}
+.kutucuk{
+    margin-left: 85px;
+}
+.altbolum{
+    background-color: rgba(179, 202, 202, 0.993);  
+    height: 99px;   
+}

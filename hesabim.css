@@ -1,0 +1,33 @@
+.ust{
+    background-color: #0ec2da;
+    height: 50px;
+    margin: -8px;
+}
+.yazi{
+    height: 45px;
+    width: 250px;
+    margin-top: 4px;
+    margin-left: -35px;
+}
+.profil{
+    margin-top: -2px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: black;
+    width: 40px;
+    height: 40px;
+    float: right;
+}
+.cizgi{
+    margin-top: -8px;
+}
+.bilgiler{
+    margin: auto;
+    background-color: black;
+    width: 600px;
+    height: 500px;
+}
+.alt{
+    background-color: red;
+    height: 111px;   
+}
